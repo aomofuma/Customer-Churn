@@ -1,0 +1,3 @@
+# Customer-Churn
+
+The nature and magnitude of marketing has changed radically in the digital age which creates a challenge for companies. The nature of customer retention has evolved because customers now have more options and information available to them i.e. customers are exposed to similar products offering similar perks at a high frequency. Companies now pay a great deal of attention and invest a lot in customer retention because it costs more to solve this problem and perhaps the most efficient method of addressing this issue is to use predictive modelling to determine customers who are likely to churn and develop specially tailored customer retention programs.
